@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "sonar": "sonar-scanner"
+    "build": "tsc -p ./src",
     
   },
   "private": true,
